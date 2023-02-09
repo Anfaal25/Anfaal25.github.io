@@ -4,4 +4,4 @@ Here you will find all the required HTML files, as well as the files needed by t
 
 
 Link to the Website:
-https://anfaal25.github.io/
+https://Anfaal25.github.io/
