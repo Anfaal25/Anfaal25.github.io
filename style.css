@@ -28,7 +28,7 @@ img{
 }
 
 .image{
-  width:200px;
+  width:200opx;
   text-align:center;
   display:block;
   background-color: transparent;
@@ -92,7 +92,7 @@ img{
 .line{
   position: absolute;
   bottom: 50px;
-  right: 0%;
+  right: 0px;
   height: 1px;
   width: 100%;
   background-color: black;
